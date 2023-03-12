@@ -10,3 +10,5 @@ Email anya.belyaeva.1998@list.ru
 * Составление баг-репортов
 * Знание основ Git, SQL
 * Работа в баг-трекере Jira
+
+theme: Cayman
